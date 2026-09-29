@@ -121,7 +121,8 @@ Create a .env file.
 
 Example:
 
-GEMINI_API_KEY=your_api_key_here
+GEMINI_API_KEY=AQ.Ab8RN6I2xyOomK8ZCGbXlwhyvNHXt5GJ2bijfgQsitfwBCpC9Q
+
 
 GEMINI_MODEL=gemini-3.8-flash
 
